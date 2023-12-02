@@ -95,7 +95,8 @@ section {
     border-image-slice: 1;
 
 }
-footer p{
+footer {
     text-align: center;
     font-size: 12px;
+    margin-top: 60px;
 }
